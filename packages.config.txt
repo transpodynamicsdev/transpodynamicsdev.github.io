@@ -1,6 +1,0 @@
-<ItemGroup>
-    <Content Include="content\**\*" PackagePath="%(Identity)" />
-</ItemGroup>
-
-
-
